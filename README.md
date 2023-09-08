@@ -1,2 +1,2 @@
-# CODESOFT
+# CODSOFT
 Internsip Codes
